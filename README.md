@@ -21,4 +21,4 @@ Actualmente, estoy aprendiendo a desarrollar en Unreal Engine utilizando Bluepri
 
 ### Contacto
 - **Email**: matiaslahorca2@gmail.com
-- **LinkedIn**: /**/
+- **LinkedIn**: www.linkedin.com/in/mat-lahorca-b3b9a631b

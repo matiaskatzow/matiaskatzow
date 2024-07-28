@@ -8,13 +8,13 @@ Actualmente, estoy aprendiendo a desarrollar en Unreal Engine utilizando Bluepri
 - Blueprints
 - C++
 
-### Principales_royectos_realizados
-/*
+### Principales_proyectos_realizados
+
 -
 -
 -
 -
-*/
+
 ### En Proceso
 - Aprendiendo técnicas avanzadas de IA en Unreal Engine.
 - Explorando nuevas funcionalidades de Blueprints y C++.
